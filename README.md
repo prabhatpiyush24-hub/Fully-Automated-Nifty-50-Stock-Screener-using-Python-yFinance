@@ -1,0 +1,1 @@
+# Fully-Automated-Nifty-50-Stock-Screener-using-Python-yFinance
